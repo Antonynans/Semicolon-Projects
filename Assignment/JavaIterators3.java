@@ -1,3 +1,14 @@
+//
+//	Write a code that outputs this:
+//		1
+//	       212
+//	      32123
+//	      4321234
+//	     543212345
+//
+
+
+
 public class JavaIterators3{
 	public static void main(String[] args) {
 		
