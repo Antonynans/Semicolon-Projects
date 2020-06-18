@@ -1,3 +1,13 @@
+//
+//Write a code that outputs the following
+//		1
+//	       222
+//	      33333
+//	     4444444
+//	    555555555
+//
+
+
 import java.util.Scanner;
 public class JavaIterators2{
 	public static void main(String[] args) {
