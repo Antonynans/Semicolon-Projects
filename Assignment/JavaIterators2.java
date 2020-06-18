@@ -23,12 +23,12 @@ public class JavaIterators2{
 			for(int num = 1; num <= x ; num++){
 				System.out.print(counter);
 			}
-				x=x+2;
+				x = x+2;
 				System.out.println();
 				counter++;
-		}
 			}
-				
 		}
+				
+	}
 	
 
